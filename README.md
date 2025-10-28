@@ -57,5 +57,6 @@ Usage
 ---------------------- Author -------------------------
 Nikhil Pereira
 Aspiring Data Scientist| BSc Statistics & Computer Science
+
 Learning through real-world projects and building a strong data portfolio
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/nikhilpereira23/)
