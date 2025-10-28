@@ -1,0 +1,9 @@
+The Used Packages are:
+numpy
+pandas
+scikit-learn
+xgboost
+streamlit
+matplotlib
+seaborn
+joblib
